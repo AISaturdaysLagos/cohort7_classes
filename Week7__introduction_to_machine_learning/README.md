@@ -1,4 +1,6 @@
 # Introduction to Machine Learning
+Instructor: Olumide Okubadejo
+--
 
 This houses the code snippet for plotting loss landscape.
 

@@ -1,3 +1,5 @@
+# Basic Probability
+
 Instructor: Tejumade Afonja
 --
 

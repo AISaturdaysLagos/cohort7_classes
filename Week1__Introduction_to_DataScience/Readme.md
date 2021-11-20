@@ -1,3 +1,5 @@
+# Introduction to Data Science
+
 Instructor: Tejumade Afonja
 --
 
