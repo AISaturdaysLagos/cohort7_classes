@@ -4,7 +4,7 @@ Instructor: Kenechi Dukor
 --
 
 ## Resource Used
-Non-Linear Model by Professor Zico Kolter [Link](http://www.datasciencecourse.org/slides/nonlinear_modeling.pdf
+Non-Linear Model by Professor Zico Kolter - [Link](http://www.datasciencecourse.org/slides/nonlinear_modeling.pdf
  "Non-Linear Models")
  
 ## Assignment
