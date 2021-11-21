@@ -19,6 +19,7 @@ For assignment/projects, these are the global expectations:
 
 - Notebook - [Link](https://github.com/AISaturdaysLagos/Cohort3/blob/25018b99975b8b7000790b832efd36237[…]inner/Week6/Notebook/Linear%20Regression%20From%20Scratch.ipynb "Linear Regression")
 - Prize Question: solve the bug that is causing high cost function values (hint: something is wrong with one of the formula implementation)
+
 **2. Multivariant Linear Regression -**
 
 - Notebook - [Link](https://github.com/AISaturdaysLagos/Cohort3/blob/25018b99975b8b7000790b832efd362379c0b870/Beginner/Week7/Notebook/Multi%20variable.ipynb "Multi Variable Regression")
