@@ -7,4 +7,4 @@ The Basic Probability slide is inspired by Chapter 1 of Prof Judea Pearl et al. 
 
 ### Complimentary materials
 - [Datasciencecourse Basic Probability Slide](http://www.datasciencecourse.org/slides/probability.pdf)
-- [Datasciencecourse Basic Probability Notes](http://www.datasciencecourse.org/notes/probability/)
+- [Datasciencecourse Basic Probability Note](http://www.datasciencecourse.org/notes/probability/)
