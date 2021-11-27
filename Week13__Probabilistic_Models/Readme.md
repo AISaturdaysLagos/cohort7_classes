@@ -1,4 +1,4 @@
-# Basic Probability
+# Probabilitic Models
 
 Instructor: George Igwegbe
 --
