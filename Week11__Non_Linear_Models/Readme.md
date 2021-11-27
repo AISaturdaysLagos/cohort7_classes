@@ -38,7 +38,7 @@ Submission for the prize questions will be on slack.
 
 I will only be awarding the first person to post his/her answers here on slack.
 
-If one person answers the two questions, he gets one prize. (so that small will remain for other:wink:)
+If one person answers the two questions, he or she gets one prize. (so that small will remain for other:wink:)
 
 The 'competition' is valid until Wednesday 17th November 2021. After that date, you answer even if it is the first will attract no prize. Lets say its contribution to knowledge :joy:
 
