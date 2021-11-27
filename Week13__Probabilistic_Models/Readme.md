@@ -7,5 +7,5 @@ Presentation Slide [Link](https://docs.google.com/presentation/d/1-L32kwGxTMmJVU
 
 ### Complimentary materials
 - [Datasciencecourse Maximum Likelihood Estimation Slide](http://www.datasciencecourse.org/slides/mle.pdf)
-- [Datasciencecourse Maximum Likelihood Estimation Notes](http://www.datasciencecourse.org/notes/mle/)
+- [Datasciencecourse Maximum Likelihood Estimation Note](http://www.datasciencecourse.org/notes/mle/)
 - [Machine Learning VU Lecture 5 Playlist](https://www.youtube.com/playlist?list=PLCof9EqayQgs6gGKPUDURn6aoV6gCIUPa)
