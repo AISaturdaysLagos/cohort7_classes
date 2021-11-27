@@ -42,4 +42,4 @@ If one person answers the two questions, he or she gets one prize. (so that smal
 
 The 'competition' is valid until Wednesday 17th November 2021. After that date, you answer even if it is the first will attract no prize. Lets say its contribution to knowledge :joy:
 
-The prize is one AI Saturdays Lagos branded T-shirt:man_dancing:.
+The prize is one [AI Saturdays Lagos branded T-shirt](https://vendors.so/s/ai-saturdays-lagos):man_dancing:.
