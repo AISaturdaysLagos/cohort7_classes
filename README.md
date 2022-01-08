@@ -11,7 +11,7 @@ Week |Date |  Topic | Resources | Instructors
 6 |9-Oct | Data Preprocessing | [Slide](https://mlvu.github.io/lectures/22.Methodology2.annotated.pdf), [Videos](https://www.youtube.com/playlist?list=PLCof9EqayQgsJDHLYb0dxn5xr2-pjmV08) | [Esemeje Omole](https://www.linkedin.com/in/esemejeomole/)
 7 |16-Oct | Introduction to Machine Learning | [Slide](http://www.datasciencecourse.org/slides/ml_intro.pdf), [Note](http://www.datasciencecourse.org/notes/ml_intro/) | [Olumide Okubadejo](https://www.linkedin.com/in/olumide-okubadejo/)
 8 |23-Oct | Linear Models | [Slide](http://www.datasciencecourse.org/slides/linear_classification.pdf), [Note](http://www.datasciencecourse.org/notes/linear_classification/), [Playlist](https://www.youtube.com/playlist?list=PLCof9EqayQguePOyoKenR5LWOlCWCkCsM)| [Stanley Dukor](https://www.linkedin.com/in/stanleydukor/)
-9 |30-Oct | **Break** 
+9 |30-Oct | `**Break**`
 10 |6-Nov | Model Evaluation | [Slide](https://mlvu.github.io/lectures/21.Methodology1.annotated.pdf), [Playlist](https://www.youtube.com/playlist?list=PLCof9EqayQgt6iSJnt8ABPhMNiU2hmZiK) | [Femi Ogunbode](https://www.linkedin.com/in/femiogunbode/?originalSubdomain=ng)
 11 | 13-Nov | Nonlinear Models | [Slide](http://www.datasciencecourse.org/slides/nonlinear_modeling.pdf), [Note](http://www.datasciencecourse.org/notes/nonlinear_modeling/) | [Kenechi Dukor](https://www.linkedin.com/in/kenechi-dukor-a30462b6/)
 12 | 20-Nov | Basic Probability | [Slide](http://www.datasciencecourse.org/slides/probability.pdf), [Note](http://www.datasciencecourse.org/notes/probability/) | [Tejumade Afonja](https://www.linkedin.com/in/tejumadeafonja/) 
@@ -20,3 +20,7 @@ Week |Date |  Topic | Resources | Instructors
 15 | 11-Dec | Unsupervised Learning  | [Slide](http://www.datasciencecourse.org/slides/unsupervised.pdf), [Note](http://www.datasciencecourse.org/notes/unsupervised/) | [Olumide Okubadejo](https://www.linkedin.com/in/olumide-okubadejo/)
 16 | 8-Jan | Recommenders Systems | [Slide](http://www.datasciencecourse.org/slides/recommender.pdf), [Note](http://www.datasciencecourse.org/notes/recommender/) | [Farouq Oyebiyi](https://www.linkedin.com/in/farouq-oyebiyi-87ba2528)
 |17|29-Jan|**Project Presentation**
+<br/>
+
+
+![Cohort 7 Course Instructors](cohort7_course_instructors.png)
